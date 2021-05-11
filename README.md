@@ -23,6 +23,13 @@ Nice Extras:
 - ranking the albums by other numeric columns - e.g. **rank**
 - ERROR message if an album hs already been logged
 
+TECHNOLOGIES USED 
+- Azure Boards - Project Management
+- C# / ASP.NET - MVC app
+- XUnit - testing
+- Git - VCS
+- Azure Pipelines - CI/CD
+- MySQL (Azure) - databases
 
 CREATING THE TABLES
 e.g. -
