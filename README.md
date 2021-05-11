@@ -17,6 +17,7 @@ MVP:
 - Submission / 'Album of the day' form-update page (component) 
 - Listening History / Library / Portfolio / Collection page **ranked by album_id but naturally also date/time**
 - Delete button 
+
 Nice Extras: 
 - I want an alert at [8pm] if I have not logged an album of the day yet.  
 - I want to find images that match the album (via API?)
